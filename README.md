@@ -1,7 +1,3 @@
-=================
- Awesome Hacking
-=================
-I leave you, my legacy.
 
 
 Code Auditing
